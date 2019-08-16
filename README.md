@@ -1,2 +1,2 @@
-# int-spring-docker
-Intermediate example using spring boot, docker and other services
+# Intermediate Spring Boot + Docker Microservice Example
+Refered from the microservice series found at : https://dzone.com/users/230813/sivaprasad.html
